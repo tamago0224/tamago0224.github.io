@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>たまごぶろぐ</title>
-    <link>http://tamago0224.github.io/</link>
-    <description>Recent content on たまごぶろぐ</description>
+    <title>Lifestyle on たまごぶろぐ</title>
+    <link>http://tamago0224.github.io/blogs/</link>
+    <description>Recent content in Lifestyle on たまごぶろぐ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Mar 2018 18:13:49 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
     
-	<atom:link href="http://tamago0224.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tamago0224.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://tamago0224.github.io/blogs/profile/</guid>
       <description>twitter: github: e-mail:</description>
-    </item>
-    
-    <item>
-      <title>First Content</title>
-      <link>http://tamago0224.github.io/post/first-content/</link>
-      <pubDate>Tue, 27 Mar 2018 15:43:15 +0900</pubDate>
-      
-      <guid>http://tamago0224.github.io/post/first-content/</guid>
-      <description>テスト記事です</description>
     </item>
     
     <item>
